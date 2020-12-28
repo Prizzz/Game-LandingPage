@@ -1,0 +1,40 @@
+.facebook path:hover{
+    fill: #4267b2;
+}
+
+.twitter path:hover{
+    fill: #41abe1;
+}
+
+.youtube path:hover{
+    fill: #f00;
+}
+
+.twitch path:hover{
+    fill: #9147ff;
+}
+
+.button:hover{
+    background-color: transparent;
+    border: 1px solid #ffb548;
+    color:  #ffb548;
+}
+
+.reviews-icon path:hover{
+    fill: #ffb548;
+    opacity: 1;
+}
+.navbar__menu-item:hover,
+.hidden__menu-item:hover,
+.footer-bottom-menu-item:hover,
+.footer-menu-item:hover{
+    color: #ffb548;
+}
+
+.navbar__lang-switch-hidden a:hover{
+    color: #ffb548;
+}
+
+.is-open{
+    display: flex;
+}
